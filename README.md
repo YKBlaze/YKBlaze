@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yol Kozlov aka YKBlaze!
-- 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning CS50x open course, Practicum web developer and Frontendmasters courses.
+
+- I really like RPGs
 
 - 📫 Email: yol135@gmail.com
 
