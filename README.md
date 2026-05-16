@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Yol Kozlov aka YKBlaze!
+- 👋 Hi, I’m YKBlaze!
 
 - I really like RPGs
 
-- 📫 Email: yol135@gmail.com
+- 📫 Email: ilpotatolisk@gmail.com
 
 <!---
 YKBlaze/YKBlaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
